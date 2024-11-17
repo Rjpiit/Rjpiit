@@ -1,5 +1,5 @@
 ### Hi there, I'm Rahulkumar👋
--🌱 I’m currently learning Machine Learning, Data Structures and Algorithms.
+-🌱 I’m currently learning Machine Learning, Neural Networks, Data Structures and Algorithms.
 
 # Hi, I'm Rahulkumar Panchal.
 
