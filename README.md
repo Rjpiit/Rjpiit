@@ -1,8 +1,7 @@
-### Hi there, I'm Rahulkumar👋
+# Hi there! I'm Rahulkumar Panchal.👋
 Welcome to my slice of Github!   
 🌱 I’m currently learning Machine Learning, Neural Networks, Data Structures and Algorithms.
 
-# Hi, I'm Rahulkumar Panchal.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
